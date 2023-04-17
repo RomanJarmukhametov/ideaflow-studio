@@ -1,0 +1,1212 @@
+{
+   "navbar": [
+      {
+         "name": "Services",
+         "items": [
+            {
+               "name": "Website Development"
+            },
+            {
+               "name": "Webapp Development"
+            },
+            {
+               "name": "UX/UI Design"
+            }
+         ]
+      },
+      {
+         "name": "Portfolio"
+      },
+      {
+         "name": "Technology"
+      },
+      {
+         "name": "About Us"
+      },
+      {
+         "name": "Career"
+      },
+      {
+         "name": "Contact Us"
+      }
+   ],
+   "primary-button": [
+      {
+         "name": "Get a Quote"
+      },
+      {
+         "name": "Get a Call"
+      },
+      {
+         "name": "Schedule a free session"
+      },
+      {
+         "name": "Apply Now"
+      },
+      {
+         "name": "Send resume"
+      }
+   ],
+   "hero-section-home": [
+      {
+         "name": "Experience"
+      },
+      {
+         "name": "Bringing your ideas to life on the web"
+      },
+      {
+         "name": "ideaflow Web Studio specializes in creating professional and cutting-edge websites and web apps for small and medium businesses to bring their ideas to life on the web"
+      }
+   ],
+   "professional-services": [
+      {
+         "name": "Experience"
+      },
+      {
+         "name": "Services"
+      },
+      {
+         "services": [
+            {
+               "name": "Website Development",
+               "description": "At ideaflow Web Studio, we specialize in designing and developing custom websites that are tailored to the unique needs of your business, ensuring a professional online presence that will help you stand out from the competition"
+            },
+            {
+               "name": "Web App Development",
+               "description": "We create web apps that are not only functional but also visually stunning, providing an engaging and intuitive user experience, and optimized for all devices and platforms"
+            },
+            {
+               "name": "UX/UI design",
+               "description": "Whether you're looking to create a new design system, revamp an existing one, or improve the user experience of your website or web app, our team of experts is here to help you every step of the way"
+            }
+         ]
+      }
+   ],
+   "our-projects": [
+      {
+         "name": "Projects"
+      },
+      {
+         "name": "We have a track record of turning innovative ideas into digital solutions that drive business growth and success. Our goal is to empower small and medium businesses with the latest technology, and take them to the next level."
+      },
+      {
+         "projects": [
+            {
+               "name": "iText Translation Agency",
+               "description": "iText Translation Agency offers professional translation services for individuals and legal entities"
+            },
+            {
+               "name": "ideaflow design system",
+               "description": "By using Figma as a design tool, we have created a design system that caters to both desktop and mobile website design for an optimal user experience"
+            }
+         ]
+      },
+      {
+         "name": "Check out our recent work"
+      }
+   ],
+   "our-testimonials": [
+      {
+         "name": "Reviews"
+      },
+      {
+         "testimonials": [
+            {
+               "spanText": "Working with ideaflow.studio on the redesign of our website was a fantastic experience.",
+               "content": "Their attention to detail and expertise in design and development really shone through in the final product. We were impressed with their ability to understand our specific needs and translate them into a beautiful, functional website that accurately represents our brand. The process was seamless. We highly recommend ideaflow.studio to anyone looking for a top-notch design and development team.",
+               "author": "Raissa Patrutdinova",
+               "position": "CEO at iText Translation Agency"
+            },
+            {
+               "spanText": "ideaflow design system has been a game-changer for my design process.",
+               "content": "The pre-built components and templates have saved me so much time, and the consistency across designs has helped me create cohesive and polished products for my clients. Plus, the system is easy to use and customize to fit my specific needs. I highly recommend ideaflow design system to any designer looking to streamline their workflow and elevate their designs.",
+               "author": "Ybrailov Alisher",
+               "position": "Freelance Designer"
+            }
+         ]
+      }
+   ],
+   "technology-and-team": [
+      {
+         "name": "Technology",
+         "description": "Our technology choices empower us to construct scalable and high-quality digital products that delight our users.",
+         "button": "Learn more"
+      },
+      {
+         "name": "Our Team",
+         "description": "We are a passionate team of experts who are dedicated to their craft and excited to make a positive impact on the world",
+         "button": "Learn more"
+      }
+   ],
+   "contact-us": [
+      {
+         "name": "Do you have a concept or strategy for your business?"
+      },
+      {
+         "name": "We would love to hear about it!"
+      },
+      {
+         "name": "Your name"
+      },
+      {
+         "name": "Your email"
+      },
+      {
+         "name": "Describe your project briefly"
+      },
+      {
+         "name": "Great news! Your form submission was successful and we will be in touch with you shortly."
+      }
+   ],
+   "footer": [
+      {
+         "name": "Services"
+      },
+      {
+         "name": "Website Development"
+      },
+      {
+         "name": "Web App Development"
+      },
+      {
+         "name": "UX/UI Design"
+      },
+      {
+         "name": "Career"
+      },
+      {
+         "name": "UX/UI Designer"
+      },
+      {
+         "name": "Vue.js Frontend Developer"
+      },
+      {
+         "name": "Node.js Backend Developer"
+      },
+      {
+         "name": "Copyright. 2023 ideaflow Web Studio"
+      },
+      {
+         "name": "Privacy Policy"
+      }
+   ],
+   "hero-section-web-site-development": [
+      {
+         "name": "Experience"
+      },
+      {
+         "name": "Stunning Website Development"
+      },
+      {
+         "name": "Experience the difference of a professionally designed website. Our team of experts specializes in creating visually stunning websites that drive results for your business"
+      }
+   ],
+   "our-services-features": [
+      {
+         "name": "What we do"
+      },
+      {
+         "name": "Our team conducts extensive research on both business and technical aspects and creates high-performance and visually appealing websites that empower you to expand your business"
+      },
+      {
+         "name": "Web App Development"
+      },
+      {
+         "name": "Our web apps enhance the value of your brand and keep it at the forefront. We provide ongoing support and ensure that your app is secure and up-to-date with regular maintenance and testing"
+      },
+      {
+         "name": "Website Development"
+      },
+      {
+         "name": "We understand the unique needs and challenges that small and medium businesses face when it comes to building an online presence. That's why we offer tailored website development services to help SMBs establish a professional and effective online presence that drives business growth"
+      },
+      {
+         "name": "UX/UI Design"
+      },
+      {
+         "name": "Our team blends the latest understanding of human behavior with user-centric UX/UI design to create intuitive interfaces that are easy to navigate and optimized for all devices"
+      }
+   ],
+   "case-studies-website": [
+      {
+         "tagline": "Case Study",
+         "title": "iText Translation Agency",
+         "content": "iText Translation Agency offers professional translation services for individuals and legal entities",
+         "link": "/portfolio/itext",
+         "button": "View Case Study"
+      }
+   ],
+   "case-studies-webapp": [
+      {
+         "tagline": "Case Study",
+         "title": "iText Translation Agency",
+         "content": "iText Translation Agency offers professional translation services for individuals and legal entities",
+         "link": "/portfolio/itext",
+         "button": "View Case Study"
+      }
+   ],
+   "case-studies-ux": [
+      {
+         "tagline": "Case Study",
+         "title": "ideaflow design system",
+         "content": "By using Figma as a design tool, we have created a design system that caters to both desktop and mobile website design for an optimal user experience",
+         "link": "/portfolio/ideaflow",
+         "button": "View Case Study"
+      }
+   ],
+   "development-approach": [
+      {
+         "name": "Development Approach"
+      },
+      {
+         "approaches": [
+            {
+               "name": "Requirements analysis",
+               "description": "We provide comprehensive project estimates that take into account market research, functional specifications, and customized needs as outlined by the client"
+            },
+            {
+               "name": "Business analysis & planning",
+               "description": "Our Project Manager will lead you through a series of collaborative sessions to establish the project's architecture and determine the essential tools required"
+            },
+            {
+               "name": "Design",
+               "description": "During this phase, the UX/UI team channels their creativity to not only bring the concept to life but also to design intuitive and engaging user interfaces to enhance UX"
+            },
+            {
+               "name": "Coding",
+               "description": "Our development team crafts and maintains code that is ready for future advancements by taking into account the evolving technology and necessary features"
+            },
+            {
+               "name": "Quality assurance",
+               "description": "We conduct thorough testing and quality assurance to guarantee that the final product meets the standards of usability, compliance and security"
+            },
+            {
+               "name": "Deployment",
+               "description": "We implement a plan to ensure that the installation or deployment of the developed software is smooth and without interruption"
+            },
+            {
+               "name": "Maintenance & support",
+               "description": "We initiate the ongoing phase of operation and maintenance, guaranteeing smooth performance, regular updates, and compliance checks."
+            }
+         ]
+      }
+   ],
+   "our-advanatges": [
+      {
+         "name": "Our Advantage"
+      },
+      {
+         "name": "Customized solutions tailored to your unique business needs"
+      },
+      {
+         "name": "Expert team of designers and developers with years of experience"
+      },
+      {
+         "name": "Streamlined project management to ensure timely delivery and high quality"
+      },
+      {
+         "name": "Responsive design for seamless user experience across all devices"
+      },
+      {
+         "name": "Use of cutting-edge technology and design systems to stay ahead of the curve"
+      }
+   ],
+   "get-quote": [
+      {
+         "name": "Contact us to discuss your concept and receive a comprehensive estimate "
+      },
+      {
+         "name": "at no cost"
+      },
+      {
+         "name": "Website Development"
+      },
+      {
+         "name": "Web App Development"
+      },
+      {
+         "name": "UX/UI Design"
+      },
+      {
+         "name": "Schedule a free session"
+      }
+   ],
+   "faq-website": [
+      {
+         "name": "FAQ"
+      },
+      {
+         "faqs": [
+            {
+               "name": "What is included in your website development services?",
+               "description": "Our website development services include everything from planning and design, to development and launch, to ongoing maintenance and support. We work closely with our clients to understand their needs and create a website that is tailored to their specific business goals"
+            },
+            {
+               "name": "How long does it take to develop a website?",
+               "description": "The timeline for website development can vary depending on the complexity of the project. On average, it takes about 4-8 weeks for our team to design and develop a basic website. However, more complex websites can take longer. We will provide you with a detailed timeline"
+            },
+            {
+               "name": "How much does it cost to develop a website?",
+               "description": "The cost of website development can vary depending on the complexity of the project and the specific requirements of the client. During our initial consultation, we will provide you with a detailed project estimate based on your specific needs and requirements"
+            },
+            {
+               "name": "Do you work with all types of businesses?",
+               "description": "Yes, we work with businesses of all sizes and industries. Our team has experience in developing websites for small and medium businesses, E-commerce websites, landing pages, and more. Furthermore, we have expertise in creating custom web applications for a variety of industries"
+            },
+            {
+               "name": "Do you offer ongoing maintenance and support for the website?",
+               "description": "Yes, we offer ongoing maintenance and support for the website to ensure that it stays up-to-date, secure and running smoothly. This service includes regular software updates, backups, security checks and monitoring to ensure that the website is always running at peak performance"
+            }
+         ]
+      }
+   ],
+   "faq-webapp": [
+      {
+         "name": "FAQ"
+      },
+      {
+         "faqs": [
+            {
+               "name": "What is included in your web app development services?",
+               "description": "Our web app development services include all aspects of web app development, including requirement gathering, design, development, testing, deployment, and ongoing maintenance and support. We work closely with our clients to understand their needs and create a web app that is tailored to their specific business goals"
+            },
+            {
+               "name": "How long does it take to develop a web app?",
+               "description": "The timeline for web app development can vary depending on the complexity of the project. On average, it takes about 4-12 weeks for our team to design and develop a basic web app. However, more complex web apps can take longer. We will provide you with a detailed timeline and milestones during our initial consultation"
+            },
+            {
+               "name": "How much does it cost to develop a web app?",
+               "description": "The cost of web app development can vary depending on the complexity of the project and the specific requirements of the client. During our initial consultation, we will provide you with a detailed project estimate based on your specific needs. We will also provide you with a detailed breakdown of the cost of each phase of the project"
+            },
+            {
+               "name": "Can you develop a web app for any type of business?",
+               "description": "Yes, we can develop web apps for businesses of all types and sizes, including small and medium businesses, startups, and enterprise companies. Our team has experience in developing web apps for various industries. We will work closely with you to understand your business needs and create a web app that is tailored to your business goals"
+            },
+            {
+               "name": "Do you offer ongoing maintenance and support for the web app?",
+               "description": "Yes, we offer ongoing maintenance and support for the web app to ensure that it stays up-to-date, secure, and running smoothly. This service includes regular software updates, backups, security checks, and monitoring, as well as bug fixing and improvements. We will work closely with you to ensure that the web app is always running at peak performance"
+            }
+         ]
+      }
+   ],
+   "faq-ux": [
+      {
+         "name": "FAQ"
+      },
+      {
+         "faqs": [
+            {
+               "name": "What is included in your UX/UI design services?",
+               "description": "Our UX/UI design services include user research, design strategy, wireframing, prototyping, user testing, and design system creation. We work closely with our clients to understand their needs and create a design that is tailored to their specific business goals and user needs"
+            },
+            {
+               "name": "How do you approach user research and design strategy?",
+               "description": "Our team conducts user research to understand the needs and behaviors of the users. We use this information to create a design strategy that is tailored to the specific needs of our clients and their users"
+            },
+            {
+               "name": "Do you create design systems?",
+               "description": "Yes, we create design systems as part of our UX/UI design services. A design system is a set of design standards, guidelines, and reusable components that ensure consistency and usability in digital products"
+            },
+            {
+               "name": "Do you offer design system creation for both desktop and mobile?",
+               "description": "Yes, we create design systems for both desktop and mobile devices. This ensures consistency and usability across all devices for a seamless user experience."
+            },
+            {
+               "name": "How do you ensure that the design system is aligned with the client's brand guidelines?",
+               "description": "We work closely with our clients to understand their brand guidelines and ensure that the design system is aligned with their brand identity. This includes incorporating the client's brand colors, typography, and other visual elements into the design system"
+            }
+         ]
+      }
+   ],
+   "hero-section-web-app-development": [
+      {
+         "name": "Experience"
+      },
+      {
+         "name": "Empowering Small Businesses with Advanced Web App Development"
+      },
+      {
+         "name": "Unlock your business potential with our advanced web app development services. Let us help you streamline operations and scale up your business with a custom-built web app"
+      }
+   ],
+   "hero-section-ux-design": [
+      {
+         "name": "Experience"
+      },
+      {
+         "name": "Expert UI/UX Design: Building Products that People Love"
+      },
+      {
+         "name": "Our UI/UX design services focus on creating design systems that enhance the user experience. Let our team of experts help you build digital products that are loved by users"
+      }
+   ],
+   "portfolio-hero": [
+      {
+         "name": "Portfolio"
+      },
+      {
+         "name": "Projects we’ve delivered"
+      },
+      {
+         "name": "Our portfolio is a reflection of our 2 years of experience in the market, working on a variety of projects, from website to web apps and design systems. Each project is a testament to our team's ability to deliver exceptional digital solutions"
+      }
+   ],
+   "project-list": [
+      {
+         "link": "/portfolio/itext",
+         "title": "iText Translation Agency",
+         "description": "iText Translation Agency offers professional translation services for individuals and legal entities",
+         "tool": "vue.js 3, Bootstrap 5"
+      },
+      {
+         "link": "/portfolio/ideaflow",
+         "title": "ideaflow design system",
+         "description": "By using Figma as a design tool, we have created a design system that caters to both desktop and mobile website design for an optimal user experience",
+         "tool": "Figma, Auto Layout"
+      }
+   ],
+   "technology": [
+      {
+         "name": "Technology"
+      },
+      {
+         "name": "Technologies we use"
+      },
+      {
+         "name": "Design and Prototyping"
+      },
+      {
+         "name": "Figma for Designing and Prototyping"
+      },
+      {
+         "name": "Figma is a powerful design tool that allows us to create and collaborate on high-fidelity designs and interactive prototypes. With its cloud-based platform and real-time collaboration features, we can work seamlessly with our clients to iterate and refine our designs. Plus, its extensive library of UI components and plugins help us to work efficiently and deliver high-quality designs in a timely manner"
+      },
+      {
+         "name": "Frontend Development"
+      },
+      {
+         "name": "Bootstrap 5: Building Beautiful and Responsive User Interfaces"
+      },
+      {
+         "name": "We use Bootstrap 5 for frontend development because it provides a robust set of tools and components for building beautiful and responsive user interfaces quickly and efficiently. With its extensive documentation and large community, Bootstrap 5 makes it easy for our team to create consistent designs and layouts that work seamlessly across all devices and screen sizes"
+      },
+      {
+         "name": "Vue.js 3: A Powerful FrontEnd Framework for Web Development"
+      },
+      {
+         "name": "Vue.js 3 is a popular frontend JavaScript framework that offers a range of benefits for web development. It provides a scalable and reactive architecture that makes it easy to build complex single-page applications, while also being lightweight and highly performant. Its comprehensive documentation and easy-to-learn syntax make it a favorite among developers, and its ecosystem of plugins and packages allow for easy integration with other tools and services"
+      },
+      {
+         "name": "Backend Development"
+      },
+      {
+         "name": "Strapi: A Powerful Headless CMS for Web Development"
+      },
+      {
+         "name": "Strapi: Strapi is an open-source headless content management system (CMS) that provides a powerful API to easily manage and deliver content to any front-end application. We use Strapi for back-end development because it is highly customizable, flexible, and easy to use, allowing us to create custom APIs quickly and efficiently. Additionally, its robust plugin system and extensive documentation make it an ideal choice for building scalable and maintainable web applications"
+      },
+      {
+         "name": "Firebase: Our Go-To Backend Technology for Rapid App Development and Deployment"
+      },
+      {
+         "name": "Firebase is a powerful backend development platform that we use to build scalable and secure web applications, enabling us to rapidly prototype, develop and deploy web apps that can seamlessly integrate with our front-end development frameworks such as Vue.js and Bootstrap"
+      }
+   ],
+   "about-us": [
+      {
+         "name": "About Us"
+      },
+      {
+         "name": "Who We Are"
+      },
+      {
+         "name": "ideaflow.studio is a team of skilled designers and developers who are passionate about creating beautiful and functional websites and web applications. "
+      },
+      {
+         "name": "With over 2 years of experience in the industry, we have developed a wide range of projects, including custom web applications, design systems, and responsive websites."
+      },
+      {
+         "name": "Our expertise in Vue.js, Bootstrap, Firebase, and Node.js allows us to deliver cutting-edge solutions that are secure, scalable, and high-performing."
+      },
+      {
+         "name": "We use modern design tools like Figma to create beautiful, intuitive user interfaces that are optimized for a seamless user experience."
+      },
+      {
+         "name": "Our goal is to help our clients achieve their business objectives by providing them with tailored solutions that meet their unique needs."
+      }
+   ],
+   "our-values": [
+      {
+         "name": "Our values"
+      },
+      {
+         "name": "Integrity"
+      },
+      {
+         "name": "At ideaflow.studio, we believe that integrity is the foundation of strong relationships and successful projects. We always strive to be honest, transparent, and ethical in everything we do, ensuring that our clients trust us and are happy with the results"
+      },
+      {
+         "name": "Customer orientation"
+      },
+      {
+         "name": "We place a strong emphasis on client orientation. We strive to deeply understand the needs of our clients and develop customized solutions that exceed their expectations. We value clear and honest communication to ensure that we are always aligned with our clients' goals and priorities"
+      },
+      {
+         "name": "Openness"
+      },
+      {
+         "name": "We value openness and believe in being transparent with our clients, partners, and team members. We strive to foster an open and collaborative environment where everyone feels comfortable sharing their ideas, feedback, and concerns"
+      },
+      {
+         "name": "Motivation"
+      },
+      {
+         "name": "We are motivated to deliver the best possible solutions to our clients. We are constantly seeking new challenges and opportunities to grow and improve as a team"
+      }
+   ],
+   "itext-project": [
+      {
+         "breadcrumbs": [
+            {
+               "name": "Portfolio"
+            },
+            {
+               "name": "iText Translation Agency"
+            }
+         ]
+      },
+      {
+         "hero": [
+            {
+               "name": "iText Translation Agency"
+            },
+            {
+               "name": "iText Translation Agency is a language services provider that offers professional translation and localization services to businesses and individuals. The company had an existing website, but it was not responsive and difficult to use on mobile devices. This was a major issue as an increasing number of users were accessing the site via mobile devices."
+            }
+         ]
+      },
+      {
+         "tools": [
+            {
+               "name": "PLATFORM"
+            },
+            {
+               "name": "web"
+            },
+            {
+               "name": "PROJECT DURATION"
+            },
+            {
+               "name": "2 months"
+            },
+            {
+               "name": "TECHNOLOGIES"
+            },
+            {
+               "name": "Bootstrap 5, vue.js 3, node.js, strapi"
+            },
+            {
+               "name": "WEBSITE"
+            },
+            {
+               "name": "https://itext.agency/"
+            }
+         ]
+      },
+      {
+         "problems": [
+            {
+               "name": "Project Challenges:"
+            },
+            {
+               "name": "Website not responsive and difficult to use on mobile devices"
+            },
+            {
+               "name": "Limited functionality and poor user experience"
+            },
+            {
+               "name": "No convenient way for clients to upload multiple files for translation"
+            }
+         ]
+      },
+      {
+         "solutions": [
+            {
+               "name": "Project Solutions:"
+            },
+            {
+               "name": "Developed a fully responsive website using Bootstrap"
+            },
+            {
+               "name": "Implemented Vue.js 3 for front-end development"
+            },
+            {
+               "name": "Used Node.js for back-end development"
+            },
+            {
+               "name": "Created a convenient order form that allows clients to upload multiple files for translation"
+            }
+         ]
+      },
+      {
+         "results": [
+            {
+               "name": "Project Results:"
+            },
+            {
+               "name": "Improved user experience and accessibility on mobile devices"
+            },
+            {
+               "name": "Increased functionality and usability of the website"
+            },
+            {
+               "name": "Enhanced user engagement and conversion rate"
+            },
+            {
+               "name": "Improved client satisfaction and retention"
+            },
+            {
+               "name": "The new website was developed using Bootstrap for responsive design, Vue.js 3 for front-end development and Node.js for back-end development."
+            },
+            {
+               "name": "The development process included the creation of a convenient order form that allows clients to upload multiple files for translation."
+            },
+            {
+               "name": "The new website provided the improved user experience and accessibility on mobile devices, increased functionality and usability, enhanced user engagement and conversion rate, and improved client satisfaction and retention. The new website helped iText Translation Agency to attract new customers and increase revenue."
+            }
+         ]
+      }
+   ],
+   "ideaflow-project": [
+      {
+         "breadcrumbs": [
+            {
+               "name": "Portfolio"
+            },
+            {
+               "name": "ideaflow Design System"
+            }
+         ]
+      },
+      {
+         "hero": [
+            {
+               "name": "ideaflow Design System"
+            },
+            {
+               "name": "ideaflow Design System is a comprehensive design library created by our web studio as an internal initiative. We recognized the need for a more systematic and efficient approach to our design process, and we wanted to establish a standardized design language and workflow to ensure consistency across all our projects."
+            }
+         ]
+      },
+      {
+         "tools": [
+            {
+               "name": "PLATFORM"
+            },
+            {
+               "name": "web and mobile"
+            },
+            {
+               "name": "PROJECT DURATION"
+            },
+            {
+               "name": "6 months"
+            },
+            {
+               "name": "TECHNOLOGIES"
+            },
+            {
+               "name": "Figma"
+            },
+            {
+               "name": "WEBSITE"
+            },
+            {
+               "name": "https://ideaflowstudio.gumroad.com/l/ideaflow-design-system"
+            },
+            {
+               "name": "Check at Gumroad"
+            }
+         ]
+      },
+      {
+         "problems": [
+            {
+               "name": "Project Challenges:"
+            },
+            {
+               "name": "Lack of Consistency: Our design team was encountering challenges in maintaining consistency across various design projects due to a lack of standardized design elements and guidelines."
+            },
+            {
+               "name": "Inefficient Workflow: We experienced a delay in our design workflow due to the time required to create new design elements from scratch for each project."
+            },
+            {
+               "name": "Difficulty Collaborating: Communication and collaboration between designers were often difficult, leading to misunderstandings and confusion during the design process."
+            }
+         ]
+      },
+      {
+         "solutions": [
+            {
+               "name": "Project Solutions:"
+            },
+            {
+               "name": "Comprehensive Design System: We created a comprehensive design system that includes standardized design elements, guidelines, and reusable components."
+            },
+            {
+               "name": "Efficient Workflow: The design system allowed for a more efficient design workflow by reducing the time required to create new design elements for each project."
+            },
+            {
+               "name": "Improved Collaboration: The design system enabled better communication and collaboration between designers by establishing a shared design language and workflow."
+            },
+            {
+               "name": "Scalable and Adaptable: The design system was designed to be scalable and adaptable, allowing for easy integration with new projects and future updates."
+            }
+         ]
+      },
+      {
+         "results": [
+            {
+               "name": "Project Results:"
+            },
+            {
+               "name": "Increased Efficiency: The design system has significantly increased our design team's efficiency, allowing us to complete design projects more quickly and effectively."
+            },
+            {
+               "name": "Improved Consistency: The design system has ensured consistency across all our design projects, resulting in a more cohesive and professional design language for our clients."
+            },
+            {
+               "name": "Enhanced Collaboration: The design system has improved communication and collaboration between designers, resulting in a more productive and positive work environment."
+            },
+            {
+               "name": "Positive Client Feedback: Our clients have appreciated the high level of consistency and professionalism in our design work, leading to increased customer satisfaction and repeat business."
+            }
+         ]
+      }
+   ],
+   "career-hero": [
+      {
+         "breadcrumbs": "Careers",
+         "title": "Current Openings",
+         "position-one": "UX/UI Designer",
+         "position-one-description": "We are looking for a skilled UX/UI Designer to join our team. In this role, you will be responsible for creating intuitive and visually appealing designs that enhance user experience. You should have experience in user research, wireframing, prototyping, and design tools such as Figma.",
+         "position-two": "Vue.js 3 Frontend Developer",
+         "position-two-description": "We are seeking an experienced Vue.js 3 Frontend Developer to join our team. In this role, you will be responsible for developing responsive and high-performing web applications. You should have strong skills in HTML, CSS, JavaScript, and Vue.js 3, as well as experience with Git and Agile methodologies.",
+         "position-three": "Node.js Backend Developer",
+         "position-three-description": "We are seeking a skilled Node.js and Strapi Backend Developer to join our team. In this role, you will be responsible for building and maintaining the server-side components of web applications, ensuring high performance and scalability. You should have strong skills in Node.js and Strapi, as well as experience with REST APIs and Git.",
+         "button": "Learn more"
+      }
+   ],
+   "vue-developer": [
+      {
+         "breadcrumbs": [
+            {
+               "name": "Careers"
+            },
+            {
+               "name": "Vue.js 3 Frontend Developer"
+            }
+         ]
+      },
+      {
+         "job-title": [
+            {
+               "name": "Vue.js 3 Frontend Developer"
+            },
+            {
+               "location": "Remote"
+            }
+         ]
+      },
+      {
+         "overview": [
+            {
+               "title": "Overview:"
+            },
+            {
+               "description": "We are looking for a talented and experienced Vue.js 3 Frontend Developer to join our dynamic team at ideaflow.studio. You will work closely with our UX/UI designers and backend developers to create scalable, high-performance web applications that meet our clients' needs."
+            }
+         ]
+      },
+      {
+         "requirements": [
+            {
+               "title": "Requirements:"
+            },
+            {
+               "description": "At least 3 years of experience working with Vue.js 3"
+            },
+            {
+               "description": "Strong proficiency in JavaScript, HTML, CSS"
+            },
+            {
+               "description": "Experience with state management libraries such as Vuex"
+            },
+            {
+               "description": "Familiarity with CSS pre-processors like Sass or Less"
+            },
+            {
+               "description": "Knowledge of RESTful API design principles and experience consuming APIs"
+            },
+            {
+               "description": "Familiarity with version control tools like Git"
+            },
+            {
+               "description": "Excellent communication and collaboration skills"
+            }
+         ]
+      },
+      {
+         "willBeAPlus": [
+            {
+               "title": "Will be a plus:"
+            },
+            {
+               "description": "Experience with TypeScript"
+            },
+            {
+               "description": "Familiarity with Firebase"
+            },
+            {
+               "description": "Experience with Agile/Scrum methodologies"
+            },
+            {
+               "description": "Familiarity with Figma design tool"
+            }
+         ]
+      },
+      {
+         "benefits": [
+            {
+               "title": "ideaflow.studio benefits:"
+            },
+            {
+               "description": "Competitive salary and benefits package"
+            },
+            {
+               "description": "Opportunity to work on challenging and rewarding projects with a talented team"
+            },
+            {
+               "description": "Professional development and training opportunities"
+            },
+            {
+               "description": "Fun and dynamic work environment"
+            }
+         ]
+      },
+      {
+         "responsibility": [
+            {
+               "title": "Responsibilities:"
+            },
+            {
+               "description": "Develop and maintain web applications using Vue.js 3"
+            },
+            {
+               "description": "Collaborate with UX/UI designers and backend developers to ensure a seamless user experience"
+            },
+            {
+               "description": "Write clean, well-documented, and testable code"
+            },
+            {
+               "description": "Continuously improve the performance, scalability, and security of our web applications"
+            },
+            {
+               "description": "Participate in code reviews and team meetings to ensure the quality of our products"
+            }
+         ]
+      },
+      {
+         "about-us": [
+            {
+               "title": "About us:"
+            },
+            {
+               "description": "At ideaflow.studio, we are passionate about creating innovative and effective digital solutions for our clients. Our team consists of experienced professionals who are dedicated to delivering high-quality work that meets our clients' business objectives. We value collaboration, creativity, and continuous learning, and strive to create a positive and supportive work environment for all of our team members."
+            }
+         ]
+      }
+   ],
+   "node-developer": [
+      {
+         "breadcrumbs": [
+            {
+               "name": "Careers"
+            },
+            {
+               "name": "Node.js & Strapi Backend Developer"
+            }
+         ]
+      },
+      {
+         "job-title": [
+            {
+               "name": "Node.js & Strapi Backend Developer"
+            },
+            {
+               "location": "Remote"
+            }
+         ]
+      },
+      {
+         "overview": [
+            {
+               "title": "Overview:"
+            },
+            {
+               "description": "We are seeking a highly skilled Node.js and Strapi Backend Developer to join our team. As a member of our development team, you will be responsible for creating and maintaining back-end services for our web applications. Your work will help us build cutting-edge web applications that are secure, scalable, and high-performing."
+            }
+         ]
+      },
+      {
+         "requirements": [
+            {
+               "title": "Requirements:"
+            },
+            {
+               "description": "Strong experience with Node.js and Strapi"
+            },
+            {
+               "description": "Familiarity with front-end technologies such as Vue.js and Bootstrap"
+            },
+            {
+               "description": "Experience with SQL and NoSQL databases"
+            },
+            {
+               "description": "Excellent problem-solving and communication skills"
+            }
+         ]
+      },
+      {
+         "willBeAPlus": [
+            {
+               "title": "Will be a plus:"
+            },
+            {
+               "description": "Experience with AWS or other cloud platforms"
+            },
+            {
+               "description": "Knowledge of RESTful API design"
+            },
+            {
+               "description": "Experience with Docker and Kubernetes"
+            }
+         ]
+      },
+      {
+         "benefits": [
+            {
+               "title": "ideaflow.studio benefits:"
+            },
+            {
+               "description": "Competitive salary and benefits package"
+            },
+            {
+               "description": "Opportunity to work on challenging and rewarding projects with a talented team"
+            },
+            {
+               "description": "Professional development and training opportunities"
+            },
+            {
+               "description": "Fun and dynamic work environment"
+            }
+         ]
+      },
+      {
+         "responsibility": [
+            {
+               "title": "Responsibilities:"
+            },
+            {
+               "description": "Develop and maintain web applications using Node.js and Strapi"
+            },
+            {
+               "description": "Collaborate with the front-end team to design and implement RESTful APIs"
+            },
+            {
+               "description": "Work closely with the project manager to ensure timely delivery of projects"
+            },
+            {
+               "description": "Troubleshoot and debug issues as they arise"
+            }
+         ]
+      },
+      {
+         "about-us": [
+            {
+               "title": "About us:"
+            },
+            {
+               "description": "At ideaflow.studio, we are passionate about creating innovative and effective digital solutions for our clients. Our team consists of experienced professionals who are dedicated to delivering high-quality work that meets our clients' business objectives. We value collaboration, creativity, and continuous learning, and strive to create a positive and supportive work environment for all of our team members."
+            }
+         ]
+      }
+   ],
+   "ux-designer": [
+      {
+         "breadcrumbs": [
+            {
+               "name": "Careers"
+            },
+            {
+               "name": "UX/UI Designer"
+            }
+         ]
+      },
+      {
+         "job-title": [
+            {
+               "name": "UX/UI Designer"
+            },
+            {
+               "location": "Remote"
+            }
+         ]
+      },
+      {
+         "overview": [
+            {
+               "title": "Overview:"
+            },
+            {
+               "description": "We are seeking a talented UX/UI Designer to join our team at ideaflow.studio. As a designer, you will be responsible for creating and delivering visually engaging and intuitive user experiences across multiple digital platforms. You will work closely with our development team to ensure seamless integration between design and development."
+            }
+         ]
+      },
+      {
+         "requirements": [
+            {
+               "title": "Requirements:"
+            },
+            {
+               "description": "Proven experience in UX/UI design with a strong portfolio of design projects"
+            },
+            {
+               "description": "Proficiency in Figma and other design software"
+            },
+            {
+               "description": "Understanding of UX principles and how to apply them to design solutions"
+            },
+            {
+               "description": "Familiarity with front-end technologies such as Vue.js and Bootstrap"
+            },
+            {
+               "description": "Ability to work collaboratively with cross-functional teams and stakeholders"
+            },
+            {
+               "description": "Excellent communication and presentation skills"
+            }
+         ]
+      },
+      {
+         "willBeAPlus": [
+            {
+               "title": "Will be a plus:"
+            },
+            {
+               "description": "Experience in designing for web and mobile applications"
+            },
+            {
+               "description": "Familiarity with front-end technologies such as Vue.js and Bootstrap"
+            },
+            {
+               "description": "Knowledge of HTML/CSS and JavaScript"
+            }
+         ]
+      },
+      {
+         "benefits": [
+            {
+               "title": "ideaflow.studio benefits:"
+            },
+            {
+               "description": "Competitive salary and benefits package"
+            },
+            {
+               "description": "Opportunity to work on challenging and rewarding projects with a talented team"
+            },
+            {
+               "description": "Professional development and training opportunities"
+            },
+            {
+               "description": "Fun and dynamic work environment"
+            }
+         ]
+      },
+      {
+         "responsibility": [
+            {
+               "title": "Responsibilities:"
+            },
+            {
+               "description": "Collaborate with cross-functional teams to define and implement innovative design solutions"
+            },
+            {
+               "description": "Create wireframes, prototypes, and high-fidelity visual designs for web and mobile applications"
+            },
+            {
+               "description": "Conduct user research and usability testing to inform design decisions"
+            },
+            {
+               "description": "Stay up-to-date with industry trends and best practices in UX/UI design"
+            },
+            {
+               "description": "Communicate design ideas and solutions effectively to stakeholders and team members"
+            }
+         ]
+      },
+      {
+         "about-us": [
+            {
+               "title": "About us:"
+            },
+            {
+               "description": "At ideaflow.studio, we are passionate about creating innovative and effective digital solutions for our clients. Our team consists of experienced professionals who are dedicated to delivering high-quality work that meets our clients' business objectives. We value collaboration, creativity, and continuous learning, and strive to create a positive and supportive work environment for all of our team members."
+            }
+         ]
+      }
+   ],
+   "apply-form": [
+      {
+         "title": "Apply for this Job"
+      },
+      {
+         "name": "Name"
+      },
+      {
+         "email": "Email"
+      },
+      {
+         "message": "Any information you would like to share with us"
+      },
+      {
+         "success": "Your application has been submitted successfully. We will contact you shortly."
+      },
+      {
+         "resume": "CV/Resume"
+      },
+      {
+         "cancel": "Cancel"
+      }
+   ],
+   "privacy-policy": [
+      {
+         "title": "Privacy Policy",
+         "effective-date": "Effective Date: 2023-04-01",
+         "purpose-title": "Purpose of the Site",
+         "purpose-text": "The purpose of the ideaflow.studio website is to provide information about our web design and development services, as well as to provide potential clients with a way to contact us for more information.",
+         "data-collected-title": "What Data We Collect?",
+         "data-collected-text": "We collect personal information that is voluntarily provided to us by users, such as name, email address, and phone number. We may also collect non-personal information such as browser type, IP address, and referral source.",
+         "data-used-title": "How Do We Use Collected Data?",
+         "data-used-text": "We use the collected data to respond to user inquiries and provide information about our services. We may also use the data to improve our website and user experience. We will not use your information for any other purposes without your explicit consent.",
+         "cookies-title": "Cookies Policy",
+         "cookies-text": "We use cookies to collect information about how users interact with our website. This information is used to improve the user experience and provide relevant content. Cookies do not collect personal information and can be disabled through your browser settings.",
+         "third-party-links-title": "Links to Third Party Sites",
+         "third-party-links-text": "Our website may contain links to third party websites. We are not responsible for the privacy practices or content of these sites. We encourage users to read the privacy policies of any third party sites they visit.",
+         "personal-info-title": "Sharing Your Personal Information",
+         "personal-info-text": "We will not share or sell your personal information to any third party without your explicit consent, unless required by law.",
+         "data-controller-title": "Data Controller & Contact Email",
+         "data-controller-text": "The data controller for the ideaflow.studio website can be contacted at hello&#64;ideaflow.studio."
+      }
+   ]
+}

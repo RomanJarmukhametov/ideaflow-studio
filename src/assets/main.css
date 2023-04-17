@@ -1,0 +1,108 @@
+:root {
+  --secondary10: #FFF2E8;
+  --primary30: #ADC6FF;
+  --primary40: #85A5FF;
+  --primary50: linear-gradient(180deg, #9E76F9 0%, #5D45F9 100%);
+  --primary60: linear-gradient(180deg, #5D45F9 0%, #267DEB 100%);
+  --primary70: linear-gradient(180deg, #5D45F9 0%, #1E4B9B 100%);
+  --primary80: linear-gradient(180deg, #45349B 0%, #1E4B9B 100%);
+  --neutral10: #FFFFFF;
+  --neutral20: #F9FAFB;
+  --neutral30: #EDF0F3;
+  --neutral40: #DDE1E6;
+  --neutral50: #D0D4D9;
+  --neutral60: #AAAFB6;
+  --neutral70: #838D95;
+  --neutral80: #636B75;
+  --neutral90: #1E2024;
+  --neutral100: #0E0F11;
+  --success60: #52C41A;
+  --warning60: #FAAD14;
+  --error60: #F5222D;
+  --info60: #1890FF;
+  --fill: #F8F9FD;
+}
+
+/* Typography */
+
+body {
+  font-family: 'Poppins', 'Roboto', sans-serif;
+  background: #F8F9FD;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 3.25rem;
+  color: var(--neutral100);
+  letter-spacing: -0.022em;
+}
+
+h2 {
+  font-size: 2.25rem;
+  font-weight: 500;
+  line-height: 2.75rem;
+  color: var(--neutral100);
+  letter-spacing: -0.021em;
+}
+
+h3 {
+  font-size: 1.75rem;
+  font-weight: 500;
+  line-height: 2.25rem;
+  color: var(--neutral100);
+  letter-spacing: -0.019em;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 2rem;
+  color: var(--neutral100);
+  letter-spacing: -0.017em;
+}
+
+h5 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.75rem;
+  color: var(--neutral100);
+  letter-spacing: -0.014em;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  color: var(--neutral100);
+  letter-spacing: -0.011em;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: var(--neutral90);
+  letter-spacing: -0.011em;
+}
+
+a {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  color: var(--neutral90);
+  letter-spacing: -0.011em;
+}
+
+.tagline {
+  color: var(--neutral90) !important;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  letter-spacing: -0.006em;
+}
+
+.hr {
+  color: var(--neutral50);
+}

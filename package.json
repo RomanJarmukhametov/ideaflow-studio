@@ -1,0 +1,35 @@
+{
+  "name": "ideaflow-studio",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "generate-sitemap": "node src/features/generate-sitemap.js"
+  },
+  "dependencies": {
+    "axios": "^1.2.3",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "pinia": "^2.0.28",
+    "sitemap": "^7.1.1",
+    "vue": "^3.2.45",
+    "vue-gtag": "^2.0.1",
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@types/node": "^18.15.11",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "gh-pages": "^5.0.0",
+    "prettier": "^2.7.1",
+    "vite": "^4.0.0"
+  }
+}
