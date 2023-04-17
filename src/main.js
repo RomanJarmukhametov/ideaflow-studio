@@ -4,6 +4,9 @@ import { createPinia } from "pinia";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
+import "./features/google-analytics-tag.js";
+import "./features/google-ads-tag.js";
+
 import App from "./App.vue";
 import router from "./router";
 
