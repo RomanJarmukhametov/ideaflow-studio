@@ -46,6 +46,18 @@ import "bootstrap-icons/font/bootstrap-icons.css";
         </div>
         <div class="col-md-3">
           <p>{{ $t("footer[8].name") }}</p>
+          <div class="d-flex gap-1">
+            <i class="bi bi-telephone-fill icon-custom"></i>
+            <a href="tel:+77182764060" class="link-custom">+7 7182 76 40 60</a>
+          </div>
+
+          <div class="d-flex gap-1">
+            <i class="bi bi-envelope-at-fill icon-custom"></i>
+            <a href="mailto:hello@ideaflow.studio" class="link-custom"
+              >hello@ideaflow.studio</a
+            >
+          </div>
+
           <div class="py-1">
             <RouterLink to="/privacy-policy" class="link-custom">{{
               $t("footer[9].name")
@@ -88,5 +100,9 @@ p {
 .link-custom:hover {
   color: var(--neutral20);
   text-decoration: none;
+}
+
+.icon-custom {
+  color: var(--neutral70);
 }
 </style>
